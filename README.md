@@ -7,7 +7,7 @@ INSTALLATION
 
 ```
 opencv, PIL, scipy, numpy
-sudo apt-get install libtesseract3
+sudo apt-get install tesseract-ocr
 pip install pytesseract
 ```
 
