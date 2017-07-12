@@ -11,7 +11,7 @@ if len(sys.argv) != 2:
 
 target_file = sys.argv[1]
 
-UL_HISTORY_FILE = "history.png"
+UL_HISTORY_FILE = "data/history.png"
 
 # To get this working rapidly on my machine, I'm hardcoding
 # sizes, which are conserved given UI scale and monitor size.
